@@ -20,6 +20,7 @@ Grunt - http://gruntjs.com/
 Gulp - http://gruntjs.com/
 
 Workflow
+Slush - http://slushjs.github.io/#/
 Yeoman - http://yeoman.io/
 
 Aplicações em JavaScript no server-side
