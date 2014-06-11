@@ -1,8 +1,26 @@
 ---
-published: true
-title: Hello world
+published: false
+title: Estudos em Javascript
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/filipesls/filipesls.github.io](http://github.com/filipesls/filipesls.github.io). Be nice. Give credit. Share, don't steal :)
+Olá,
 
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+Meu objetivo aqui é estudar, melhorar e aprender cada vez mais sobre Javascript. Preciso organizar isso direito e direcionamer meus estudos
+
+Frameworks:
+Angular - https://angularjs.org/
+Ember - http://emberjs.com/
+React - http://facebook.github.io/react/
+Backbone - http://backbonejs.org/
+Knockout - http://knockoutjs.com/
+Mithril - http://lhorie.github.io/mithril/
+
+Automatizar tarefas utilizando:
+Grunt - http://gruntjs.com/
+Gulp - http://gruntjs.com/
+
+Workflow
+Yeoman - http://yeoman.io/
+
+Aplicações em JavaScript no server-side
+Node.js - http://nodejs.org/
